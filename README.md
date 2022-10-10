@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @manumohant
+- 👀 I’m interested in software development, devops, automation, machine learning and data analytics 
